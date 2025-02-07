@@ -21,11 +21,11 @@
       "l1": "I'm a Creative Technologist"
     },
     "p4": {
-      "l1": "They Call Me Giulio."
+      "l1": "They Call Me UNFAZED"
     },
     "scroll_cta": {
       "line1": "Scroll down",
-      "line2": "to see some work"
+      "line2": "to know more about"
     }
   },
   "portfolio": {
@@ -37,24 +37,22 @@
     ],
     "portfolio": [
       "Projects",
-      "I have collaborated with companies such as: <strong>Nexi</strong>, <strong>Sky</strong>, <strong>Fastweb</strong>, <strong>IBL</strong>, <strong>Generali</strong>, <strong>Corner</strong>, <strong>AMDL Circle</strong>.<br /><br />",
-      "Here are some of my most relevant projects."
+      "I have contributed in multiple projects of amazing companies such as: <strong>FaceBook</strong>, <strong>Amazon</strong>, <strong>NodeJs</strong>, <strong>Nautech System</strong>, <strong>Axios</strong>.<br /><br />",
+      ""
     ]
   },
   "about": {
     "intro": [
-      "I was born in <ImageVenice>Venice</ImageVenice> in september '86, today I live in Como and work at <ImageSketchin>Sketchin</ImageSketchin>, an advanced-design studio, as Creative Technologist.",
-      "<pre>Twenty/ys</pre>ago the first<br />version of<br /> TheyCallMeGiulio",
-      "The third version, in 2004, was the first to have the top-level domain <ImageTCMGTK>theycallmegiulio.tk</ImageTCMGTK>",
-      "Since then I have been designing and implementing virtual experiences. I have studied different programming languages and databases to cover the whole stack.",
-      "Today I think in javascript."
+      "I'm <ImageVenice>Anurag</ImageVenice>, an experienced <ImageVenice>Full Stack Engineer</ImageVenice> immersed in software and web development. My passion lies in crafting open-source applications, solutions and tools, while collaborating with different developers around the world.",
+      "<pre> </pre>Today I think in C++<br /><br />",
+      "I'm currently in the  <ImageVenice>Agartala </ImageVenice>, working remotely in projects involving TypeScript, JavasScript, Node.js, React, and Go. With over  <ImageVenice>4 </ImageVenice> years of experience, I've worked closely with companies locally and remotely with different teams worldwide."
     ],
-    "clan_title": ["Numbers", "One"],
+    "clan_title": ["", ""],
     "clan": [
-      "It is the name of a clan of players of which I was the co-founder. A community whose main interest was a passion for <ImageBW>Starcraft: Brood War</ImageBW>.",
-      "At that time (it was the early 2000s) I began to combine fun for this game and passion for my work, practicing building the first <ImageNO2>Numbers One</ImageNO2> website.",
-      "A year later I built a <ImageNO3>web 2.0 portal</ImageNO3> with features such as logins, news, interviews, uploads and sharing of game replays. Visual design with Photoshop, frontend with HTML, CSS and Javascript. Custom backend with PHP Codeigniter and MySql. It still looks like a modern stack.",
-      "Today, as then, I enrich my work with constant training, updating, sharing and curiosity."
+      "",
+      "",
+      "",
+      ""
     ],
     "method_title": "Method<br /><pre>&</pre>Acknowledgements",
     "method": [
@@ -66,6 +64,6 @@
   },
   "contact": {
     "intro": "You can get in touch with me by writing to",
-    "social_intro": "You can find me a little less on social, but if you want you can also contact me on"
+    "social_intro": "You will find me a little less on social, but if you want you can also contact me on"
   }
 }

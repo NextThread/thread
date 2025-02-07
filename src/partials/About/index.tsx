@@ -164,11 +164,11 @@ function About() {
         <Row start={1} end={3}>
           <ContentBlock>
             <List>
-              <ListItem end="x6">Awwwards</ListItem>
-              <ListItem end="x6">CSS Design Awards</ListItem>
-              <ListItem end="x1">FWA</ListItem>
-              <ListItem end="x3">iF Design Award</ListItem>
-              <ListItem end="x8">Other</ListItem>
+              <ListItem end="">Rated among top 0.1% coder globally</ListItem>
+              <ListItem end="">Mentored over 2500+ individuals globally</ListItem>
+              <ListItem end="x3">Achieved 1 digit global rank in several Hackathon</ListItem>
+              <ListItem end="x12">Achieved 1 digit AIR & global rank in several coding competitions</ListItem>
+              <ListItem end="x10">Other</ListItem>
             </List>
           </ContentBlock>
         </Row>

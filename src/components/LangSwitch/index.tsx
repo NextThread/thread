@@ -14,7 +14,7 @@ import { useTranslation } from 'react-i18next'
 import { useLocation } from 'react-router-dom'
 import { useEffect } from 'react'
 
-const languages = ['it', 'en']
+const languages = ['']
 
 const LangSwitch = () => {
   const dispatch = useDispatch()
